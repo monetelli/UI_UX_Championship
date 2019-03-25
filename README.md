@@ -8,8 +8,10 @@
 You will use the new updates of Xamarin.Forms:
 
 - BindableLayout.
-- CollectionView and CarrouselView.
+- CollectionView and CarouselView.
 - Only in XAML.
+- You can make use of Gorilla Player.
+- The interface designs are in the "XD Project" folder.
 
   <img alt="react-native-gifted-chat" src="https://github.com/monetelli/UI_UX_Championship_Start/blob/master/Images/CollectionViewAndVisual.gif" width="960" height="500" />
  </a>
