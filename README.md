@@ -3,7 +3,7 @@
 
 ## Description
 
-### UI / UX Skills in Xamarin.Forms
+### UI/UX Skills in Xamarin.Forms
 
 You will use the new updates of Xamarin.Forms:
 
