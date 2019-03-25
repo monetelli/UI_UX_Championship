@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 Daniel Monetelli L.
+Copyright (c) 2019 Daniel Monetelli L. (UI_UX_Championship)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
