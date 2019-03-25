@@ -9,6 +9,7 @@ You will use the new updates of Xamarin.Forms:
 
 - BindableLayout.
 - CollectionView and CarouselView.
+- Styles XAML and CSS
 - Only in XAML.
 - You can make use of Gorilla Player.
 - The interface designs are in the "XD Project" folder.
