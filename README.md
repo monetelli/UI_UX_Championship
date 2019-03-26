@@ -12,6 +12,7 @@ You will use the new updates of Xamarin.Forms:
 - Styles XAML and CSS
 - Only in XAML.
 - You can make use of Gorilla Player.
+- You can use "Adobe XD" or "Zeplin" to share for development.
 - The interface designs are in the "XD Project" folder.
 - The Json files are in the "GorillaPlayer" folder.
 - The font family is in the "Fonts" folder.
