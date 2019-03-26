@@ -29,6 +29,17 @@ You will use the new updates of Xamarin.Forms:
 - Xamarin.Forms Update - The enamored CSS and BindableLayout -> <a href="https://www.youtube.com/watch?v=y8qzmYk229U">https://www.youtube.com/watch?v=y8qzmYk229U</a>
 - Xamarin.Forms 4.0 Feature Preview: An Entirely New Point of (Collection)View -> <a href="https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/">https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/</a>
 
+
+### Preview in Adobe XD
+
+- LibraryPage.xaml <img alt="react-native-gifted-chat" src="https://raw.githubusercontent.com/monetelli/UI_UX_Championship_Start/master/Images/LibraryPage.png" width="960" height="480" />
+ </a>
+ - InstructorPage.xaml <img alt="react-native-gifted-chat" src="https://raw.githubusercontent.com/monetelli/UI_UX_Championship_Start/master/Images/InstructorPage.png" width="960" height="480" />
+ </a>
+ - CoursesPage.xaml <img alt="react-native-gifted-chat" src="https://raw.githubusercontent.com/monetelli/UI_UX_Championship_Start/master/Images/CoursesPage.png" width="960" height="480" />
+ </a>
+ 
+ 
 ### Preview in Xamarin.Forms
 
   <img alt="react-native-gifted-chat" src="https://github.com/monetelli/UI_UX_Championship_Start/blob/master/Images/PreviewInXF.gif" width="960" height="480" />
