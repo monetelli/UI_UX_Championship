@@ -7,9 +7,11 @@
 
 You will use the new updates of Xamarin.Forms:
 
+- SplashScreen. 
+- Custom Fonts.
+- Styles XAML and CSS.
 - BindableLayout.
 - CollectionView and CarouselView.
-- Styles XAML and CSS
 - Only in XAML.
 - You can make use of Gorilla Player.
 - You can use "Adobe XD" or "Zeplin" to share for development.
@@ -24,6 +26,7 @@ You will use the new updates of Xamarin.Forms:
 
 - XamarinLoveXD - Design and Prototype in Adobe XD and how to apply it in Xamarin.Forms Part3 -> <a href="https://www.youtube.com/watch?v=Wlyg5oRWz-M">https://www.youtube.com/watch?v=Wlyg5oRWz-M</a>
 - Part 1 UI/UX in Xamarin from 0 - SplashScreen -> <a href="https://www.youtube.com/watch?v=vPKXH6I_gXE&list=PLb_jbRt97LRbQqmMg5ZZp2yhzsff7fTCC">https://www.youtube.com/watch?v=vPKXH6I_gXE&list=PLb_jbRt97LRbQqmMg5ZZp2yhzsff7fTCC</a>
+- Custom Fonts in Xamarin.Forms - Adam Pedley -> <a href="https://xamarinhelp.com/custom-fonts-xamarin-forms/">https://xamarinhelp.com/custom-fonts-xamarin-forms/</a>
 - Part 1 UI/UX in Xamarin from 0 - Gorilla Player in action -> <a href="https://www.youtube.com/watch?v=jzGK-J65n48">https://www.youtube.com/watch?v=jzGK-J65n48</a>
 - Good Practices in Xamarin.Forms - Static Styles XAML and CSS -> <a href="https://www.youtube.com/watch?v=x2tZHKFev9Y">https://www.youtube.com/watch?v=x2tZHKFev9Y</a>
 - Xamarin.Forms Update - The enamored CSS and BindableLayout -> <a href="https://www.youtube.com/watch?v=y8qzmYk229U">https://www.youtube.com/watch?v=y8qzmYk229U</a>
