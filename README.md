@@ -19,11 +19,13 @@ You will use the new updates of Xamarin.Forms:
  </a>
 
 ### References
+
+- XamarinLoveXD - Diseño y Prototipo en Adobe XD y como aplicarlo en Xamarin.Forms Part3 -> <a href="https://www.youtube.com/watch?v=Wlyg5oRWz-M">https://www.youtube.com/watch?v=Wlyg5oRWz-M</a>
+- Part 1 UI/UX en Xamarin desde 0 - SplashScreen -> <a href="https://www.youtube.com/watch?v=vPKXH6I_gXE&list=PLb_jbRt97LRbQqmMg5ZZp2yhzsff7fTCC">https://www.youtube.com/watch?v=vPKXH6I_gXE&list=PLb_jbRt97LRbQqmMg5ZZp2yhzsff7fTCC</a>
+- Part 0 UI/UX en Xamarin desde 0 - Gorilla Player en acción -> <a href="https://www.youtube.com/watch?v=jzGK-J65n48">https://www.youtube.com/watch?v=jzGK-J65n48</a>
+- Buenas Prácticas en Xamarin.Forms - Estilos estáticos XAML y CSS -> <a href="https://www.youtube.com/watch?v=x2tZHKFev9Y">https://www.youtube.com/watch?v=x2tZHKFev9Y</a>
 - Xamarin.Forms Update - Los enamorados CSS y BindableLayout -> <a href="https://www.youtube.com/watch?v=y8qzmYk229U">https://www.youtube.com/watch?v=y8qzmYk229U</a>
 - Xamarin.Forms 4.0 Feature Preview: An Entirely New Point of (Collection)View -> <a href="https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/">https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/</a>
-- Buenas Prácticas en Xamarin.Forms - Estilos estáticos XAML y CSS -> <a href="https://www.youtube.com/watch?v=x2tZHKFev9Y">https://www.youtube.com/watch?v=x2tZHKFev9Y</a>
-- Part 0 UI/UX en Xamarin desde 0 - Gorilla Player en acción -> <a href="https://www.youtube.com/watch?v=jzGK-J65n48">https://www.youtube.com/watch?v=jzGK-J65n48</a>
-- XamarinLoveXD - Diseño y Prototipo en Adobe XD y como aplicarlo en Xamarin.Forms Part3 -> <a href="https://www.youtube.com/watch?v=Wlyg5oRWz-M">https://www.youtube.com/watch?v=Wlyg5oRWz-M</a>
 
 
 ## Open Source Love
