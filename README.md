@@ -14,6 +14,7 @@ You will use the new updates of Xamarin.Forms:
 - You can make use of Gorilla Player.
 - The interface designs are in the "XD Project" folder.
 - The Json files are in the "GorillaPlayer" folder.
+- The font family is in the "Fonts" folder.
 
   <img alt="react-native-gifted-chat" src="https://github.com/monetelli/UI_UX_Championship_Start/blob/master/Images/CollectionViewAndVisual.gif" width="960" height="500" />
  </a>
