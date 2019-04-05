@@ -12,6 +12,7 @@ You will use the new updates of Xamarin.Forms:
 - Styles XAML and CSS.
 - BindableLayout.
 - CollectionView and CarouselView.
+- Material Visual
 - Only in XAML.
 - You can make use of Gorilla Player.
 - You can use "Adobe XD" or "Zeplin" to share for development.
@@ -31,6 +32,7 @@ You will use the new updates of Xamarin.Forms:
 - Good Practices in Xamarin.Forms - Static Styles XAML and CSS -> <a href="https://www.youtube.com/watch?v=x2tZHKFev9Y">https://www.youtube.com/watch?v=x2tZHKFev9Y</a>
 - Xamarin.Forms Update - The enamored CSS and BindableLayout -> <a href="https://www.youtube.com/watch?v=y8qzmYk229U">https://www.youtube.com/watch?v=y8qzmYk229U</a>
 - Xamarin.Forms 4.0 Feature Preview: An Entirely New Point of (Collection)View -> <a href="https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/">https://blog.xamarin.com/xamarin-forms-4-0-feature-preview-an-entirely-new-point-of-collectionview/</a>
+- Xamarin.Forms Material Visual -> <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/material-visual">https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/material-visual/</a>
 
 
 ### Preview in Adobe XD
